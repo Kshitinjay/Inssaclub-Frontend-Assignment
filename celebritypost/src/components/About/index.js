@@ -21,10 +21,13 @@ const About = () => {
             <h1>
               Minakshi S
               <span>
-                <img src="https://img.icons8.com/fluent/35/000000/verified-badge.png" alt="noImage"/>
+                <img
+                  src="https://img.icons8.com/fluent/35/000000/verified-badge.png"
+                  alt="noImage"
+                />
               </span>
             </h1>
-            <h4>Litchijuice</h4>
+            <h4>Litchi juice</h4>
             <p>Enterpreneur, Business Women, Fitness Vlogger</p>
           </div>
         </div>

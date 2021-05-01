@@ -7,7 +7,7 @@ const PostContainer = () => {
     <div id="postContainer">
       {Data.map((item, id) => {
         return (
-          <SinglePost key={id} heading={item.heading} details={item.details} imgLink={item.imgLink}/>
+          <SinglePost key={id} item={item}/>
         );
       })}
     </div>
